@@ -1,0 +1,160 @@
+
+body {
+  position:relative;
+  font-family:Lora, Montserrat, sans-serif;
+  line-height:1.5;
+  
+}
+.navbar-inverse {
+  position:fixed;
+  width:100%;
+  padding-top:15px;
+  padding-bottom:15px;
+  border-radius:0%;
+  border:0px;
+  margin-right:50px;
+  font-size:1.0em;
+  letter-spacing:5px;
+  background-color:transparent;
+  opacity:1.0;
+  height:70px;
+  text-decoration:none;
+  }
+
+h1 {
+  font-size:60px;
+  color: white;
+}
+.img-circle {
+  border-color:white;
+  border-width:10px;
+  border-style:solid;
+  border-radius:50%;
+}
+
+h2 {
+  font-size:50px;
+  color:white;
+  padding-top:5px;
+}
+
+
+
+#section1 {
+padding-top:50px;
+height:550px;
+ 
+}
+
+#section2 {
+padding-top:50px;
+height:500px;
+color: #fff;
+
+}
+
+#section3 {
+padding-top:40px;
+height:800px;
+color: #fff;
+padding-left:30px;
+padding-right:30px;
+}
+
+#section4 {
+  padding-top:40px;
+  padding-left:40px;
+  padding-right:40px;
+  height:500px;
+  color:#fff;
+}
+  
+.sec1 {
+  background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/05/Black-White-HD-City-Wallpapers.jpg"); 
+ background-position:center;
+ background-repeat:no-repeat;
+ text-align:center;
+ margin:auto;
+ background-size:cover;
+ height:700px;
+ padding-top:70px;
+  }
+
+.sec2 {
+  background-color:gray;
+  background-repeat:no-repeat;
+  margin:auto;
+  background-size:cover;
+  background-position:center;
+  background:
+  linear-gradient(black,gray);
+}
+.sec2 p {
+  font-size:20px;
+  margin-left:0px;
+
+}
+
+.sec2 , a , a:link {
+  color:springgreen;
+}
+
+.sec2, a , a:visted {
+  color:springgreen;
+}
+
+.sec2 , a , a:hover {
+  color:black;
+  text-decoration:none;
+}
+
+.sec2 , a , a:active {
+  color:springgreen;
+
+}
+
+.sec3 {
+  background:linear-gradient(gray,black);
+  color: #555555;
+}
+
+
+.sec4 {
+  background-color:black;
+  background:linear-gradient(black,gray);
+  background-repeat:no-repeat;
+  margin:auto;
+  background-size:cover;
+  background-position:center;
+}
+.sec4, input{
+  line-height:10px;
+}
+.sec5 {
+  padding-top:30px;
+  background-color:gray;
+  background-repeat:no-repeat;
+  margin:auto;
+  background-size:cover;
+  background-position:center;
+  height:100px;
+}
+.fa {
+ color:white;
+ text-decoration:none;
+ letter-spacing:9px;
+
+}
+ .fa , a :link {
+  color:springgreen;
+}
+ .fa , a :visted {
+  color:springgreen;
+}
+ .fa , a :hover {
+  color:white;
+}
+.fa , a :active {
+  color:springgreen;
+}
+
